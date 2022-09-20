@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
-versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=MMT-Op
+name=Magisk Module Template Optimized
+version=v2.1
+versionCode=11
+author=Zackptg5 & UsiFX
+description=Magisk Module Template Optimized
+updateJson=https://raw.githubusercontent.com/UsiFX/MMT-Op/master/update.json

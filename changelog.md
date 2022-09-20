@@ -1,3 +1,8 @@
+### v2.1 20.9.2022
+* update print stylish
+* adapt installer
+* import simple banner
+
 ### v2.0 - 1.29.2022
 * Update for magisk 24
   * Added zygisk module support
